@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eren Gürsoy</h1>
 <h3 align="center">A computer engineering student in Cumhuriyet University</h3>
 
-- 🌱 I’m currently learning **Swift UI, Java**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **ahmeterengursoy@gmail.com**
 
